@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I’m a data analyst who turns raw, complex datasets into clear narratives and practical business strategies.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+My work centers on three things: designing intuitive dashboards that stakeholders actually rely on, automating repetitive workflows so teams can focus on high-impact initiatives, and building predictive models that take the guesswork out of future planning.
 
-When I'm not working with data, I enjoy [creating content,Exercising, learning, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Away from the screen, you’ll usually find me creating content, staying active with a good workout, or diving into a new subject—always chasing that "aha!" moment when a hidden pattern suddenly makes everything click.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://muyvan.github.io/)
